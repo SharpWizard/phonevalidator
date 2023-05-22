@@ -1,0 +1,7 @@
+C:\Users\Tanvir\source\repos\phonevalidator\bin\Debug\phonevalidator.exe.config
+C:\Users\Tanvir\source\repos\phonevalidator\bin\Debug\phonevalidator.exe
+C:\Users\Tanvir\source\repos\phonevalidator\bin\Debug\phonevalidator.pdb
+C:\Users\Tanvir\source\repos\phonevalidator\obj\Debug\phonevalidator.csproj.AssemblyReference.cache
+C:\Users\Tanvir\source\repos\phonevalidator\obj\Debug\phonevalidator.csproj.CoreCompileInputs.cache
+C:\Users\Tanvir\source\repos\phonevalidator\obj\Debug\phonevalidator.exe
+C:\Users\Tanvir\source\repos\phonevalidator\obj\Debug\phonevalidator.pdb
